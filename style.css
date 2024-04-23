@@ -364,7 +364,7 @@
     }
 
     .cont-1-rtl_2 {
-        overflow-y: hidden;
+        overflow-y: auto;
         width: 670px;
         height: 104px;
         display: inline-flex;
